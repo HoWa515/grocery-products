@@ -9,6 +9,7 @@ public class SpringbootMongodbApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(SpringbootMongodbApplication.class, args);
+		System.out.println("App Started...");
 	}
 
 }
